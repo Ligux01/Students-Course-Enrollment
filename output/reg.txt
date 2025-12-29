@@ -1,0 +1,20 @@
+Mariam Nasser#1234567#Biology#BIO201#Genetics#4#Spring 2024
+Mariam Nasser#1234567#Biology#BIO305#Molecular Biology#3#Fall 2024
+Kareem Said#1289012#Civil Engineering#CE201#Structural Analysis#4#Fall 2024
+Kareem Said#1289012#Civil Engineering#CE305#Construction Management#3#Spring 2025
+Nour Zayed#1230056#Software Engineering#SWE420#Mobile Application Development#3#Fall 2024
+Nour Zayed#1230056#Software Engineering#CS301#Database Systems#4#Fall 2024
+Sara Ali#1245789#Electrical Engineering#EE101#Circuit Analysis#4#Fall 2024
+Sara Ali#1245789#Electrical Engineering#MATH202#Linear Algebra#3#Fall 2024
+Omar Khalil#1198765#Mechanical Engineering#ME205#Thermodynamics#4#Spring 2024
+Omar Khalil#1198765#Mechanical Engineering#ME310#Fluid Mechanics#3#Fall 2024
+Layla Ibrahim#1267890#Mathematics#MATH301#Real Analysis#4#Spring 2025
+Layla Ibrahim#1267890#Mathematics#MATH205#Differential Equations#3#Fall 2024
+Ahmad Hassan#1230618#Computer Science#CS201#Data Structures#3#Fall 2024
+Ahmad Hassan#1230618#Computer Science#CS301#Algorithms#4#Spring 2025
+Fatima Mahmoud#1256789#Chemistry#CHEM201#Organic Chemistry#4#Spring 2024
+Fatima Mahmoud#1256789#Chemistry#CHEM301#Physical Chemistry#3#Fall 2024
+Basel Taha#1206123#Business Administration#BUSA310#Human Resource Management#3#Spring 2024
+Basel Taha#1206123#Business Administration#BUSA205#Marketing Principles#3#Spring 2024
+Yusuf Ahmed#1223344#Physics#PHYS201#Classical Mechanics#4#Fall 2024
+Yusuf Ahmed#1223344#Physics#PHYS305#Quantum Mechanics#4#Spring 2025
